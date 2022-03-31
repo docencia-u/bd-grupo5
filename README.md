@@ -1,4 +1,4 @@
-# Bases de Datos - Grupo 2
+# Bases de Datos - Grupo 5
 ### Proyecto: Articulos Cientificos
 
 <table>
