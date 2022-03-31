@@ -14,14 +14,14 @@
     <tbody>
         <tr>
             <td>MATIAS</td>
-            <td>CRUZ&nbsp;GARRIDO</td>
+            <td>CRUZ GARRIDO</td>
             <td>m.cruzgarrido@uandresbello.edu</td>
             <td>5</td>
             <td>7</td>
         </tr>
         <tr>
             <td>MATÍAS</td>
-            <td>CABEZAS&nbsp;MESÍAS</td>
+            <td>CABEZAS MESÍAS</td>
             <td>m.cabezasmesas@uandresbello.edu</td>
             <td>5</td>
             <td>7</td>
@@ -35,14 +35,14 @@
         </tr>
         <tr>
             <td>JHONSON</td>
-            <td>LOUIS&nbsp;CHARLES</td>
+            <td>LOUIS CHARLES</td>
             <td>j.louischarles@uandresbello.edu</td>
             <td>5</td>
             <td>7</td>
         </tr>
         <tr>
             <td>RODRIGO</td>
-            <td>MARTÍNEZ&nbsp;QUIROZ</td>
+            <td>MARTÍNEZ QUIROZ</td>
             <td>r.martnezquiroz@uandresbello.edu</td>
             <td>5</td>
             <td>7</td>
