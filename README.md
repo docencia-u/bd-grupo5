@@ -34,7 +34,7 @@
             <td>7</td>
         </tr>
         <tr>
-            <td>JHONSON</td>
+            <td>*JHONSON</td>
             <td>LOUIS CHARLES</td>
             <td>j.louischarles@uandresbello.edu</td>
             <td>5</td>
