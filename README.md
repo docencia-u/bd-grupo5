@@ -33,13 +33,17 @@
             <td>5</td>
             <td>7</td>
         </tr>
+        <!--
         <tr>
-            <td>*JHONSON</td>
+            <td>
+                **JHONSON
+            </td>
             <td>LOUIS CHARLES</td>
             <td>j.louischarles@uandresbello.edu</td>
             <td>5</td>
             <td>7</td>
         </tr>
+        -->
         <tr>
             <td>RODRIGO</td>
             <td>MARTÍNEZ QUIROZ</td>
@@ -49,3 +53,5 @@
         </tr>
     </tbody>
 </table>
+
+~~__*JHONSON, LOUIS CHARLES*__~~
